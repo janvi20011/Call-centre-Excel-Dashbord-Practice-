@@ -90,3 +90,10 @@ The dashboard can be used to analyze:
 - Business-oriented analysis
 - Dashboard design
 
+## Project Note
+This is a practice project created for learning purposes.
+
+The dashboard was developed by following a YouTube tutorial as a learning reference and implementing the concepts in Microsoft Excel.
+
+It is included in my portfolio to demonstrate my hands-on practice with Excel dashboarding and data visualization
+
