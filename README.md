@@ -10,9 +10,8 @@ This project focuses on transforming call centre data into an interactive and ea
 
 The dashboard provides a high-level view of call centre performance and helps identify trends across calls, revenue, customer ratings, representatives, locations, and days of the week.
 
-## Datasets & Dashboard
-<a href - "https://github.com/janvi20011/Call-centre-Excel-Dashbord-Practice-/blob/main/Callcentredata.xlsx">Datasets<a/>
-<a href- "https://github.com/janvi20011/Call-centre-Excel-Dashbord-Practice-/blob/main/Screenshot%202026-10-04%20142034.png"><a/>
+## Datasets 
+<a href="https://github.com/janvi20011/Call-centre-Excel-Dashbord-Practice-/blob/main/Callcentredata.xlsx">Datasets<a/>
 
 ## Key Metrics
 
@@ -62,6 +61,10 @@ Provides a detailed view of calls, amounts, representatives, locations, and othe
 - Conditional formatting
 - Dashboard design
 - Data visualization
+
+## Dashboard
+<img width="1823" height="867" alt="Screenshot 2026-10-04 142034" src="https://github.com/user-attachments/assets/db272c5e-4187-4348-b5e5-466b368fbe97" />
+
 
 ## Key Analysis Areas
 
